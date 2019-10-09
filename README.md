@@ -253,9 +253,15 @@
 
 [澳门](https://www.dsec.gov.mo/home_zhmo.aspx)
 
+--------
+
 云南、内蒙古、广西、西藏、重庆、辽宁省、吉林省、河北省、山西省、甘肃省、青海省暂无。
 
+--------
+
 *信源：《[最全的中国开放数据(open data)及政府数据开放平台汇总](http://www.tanmer.com/blog/451)》*
+
+----------
 
 ## 国外
 
@@ -281,6 +287,8 @@
 
 *信源：《[【Open Data】国外开放数据中心及政府数据开放平台汇总]( http://www.tanmer.com/blog/537)》*
 
+-----------
+
 **除了上述网站外，《数据新闻概论（第二版）一书》还提到以下满足要求的平台：**
 
 [英国政府网站](GOV.uk)
@@ -300,26 +308,35 @@
 &emsp;&emsp;通过季度间差值/上一季度的数据和同期差值/上一期数据分别计算得出名义环比/同比（现价）和实际环比/同比（不变价）的值，通过查找资料发现实际与名义增速之间的区别在于平减指数，有时用CPI替换，但使用这两个指数的意义也在于消除通货膨胀等现实因素造成的差距，所以推断不变价数据计算得出的增速为实际增速。
 
 &emsp;&emsp;但是，在与官方网站给出的环比数据进行对比发现与我个人的计算结果不同，这其中可能还有一些繁杂的计算有待之后深入了解，具体数据和计算过程如下。
- 
-现价数据
 
- 
-现价_环比
+--------
 
+![现价数据](https://github.com/biugbang/homework_2/raw/master/1.png)
 
- 
-现价_同比
+---------
 
- 
-不变价数据
- 
-不变价_环比
+![现价_环比](https://github.com/biugbang/homework_2/raw/master/2.png)
 
- 
-不变价_同比
+---------
 
- 
-官方环比数据
+![现价_同比](https://github.com/biugbang/homework_2/raw/master/3.png)
 
+-----------
+
+![不变价数据](https://github.com/biugbang/homework_2/raw/master/4.png)
+
+----------
  
-官方环比数据统计图
+![不变价_环比](https://github.com/biugbang/homework_2/raw/master/5.png)
+
+-----------
+
+![不变价_同比](https://github.com/biugbang/homework_2/raw/master/6.png)
+
+----------
+
+![官方环比数据](https://github.com/biugbang/homework_2/raw/master/7.png) 
+
+-------------
+
+![官方环比数据统计图](https://github.com/biugbang/homework_2/raw/master/8.png)
