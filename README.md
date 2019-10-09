@@ -311,7 +311,7 @@
 
 --------
 
-![现价数据](https://github.com/biugbang/homework_2/raw/master/1.png)
+![现价数据](https://github.com/biugbang/homework_2/raw/master/1.png"现价数据")
 
 ---------
 
